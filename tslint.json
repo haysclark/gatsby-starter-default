@@ -15,7 +15,10 @@
         "no-console": [
             false
         ],
-        "no-var-requires": false
+        "no-var-requires": false,
+        "quotemark": ["single", "jsx-single"],
+        "semicolon": false,
+        "trailing-comma": false,
     },
-    "rulesDirectory": []
+    "rulesDirectory": [],
 }

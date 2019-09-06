@@ -1,16 +1,22 @@
 {
   "name": "gatsby-starter-typescript",
   "description": "Gatsby TypeScript starter",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "@types/node": "^8.0.7",
-    "@types/react": "15.0.21",
-    "@types/react-dom": "0.14.23",
-    "gatsby": "^1.9.119",
-    "gatsby-link": "^1.6.28",
-    "gatsby-plugin-react-helmet": "^1.0.8",
-    "gatsby-plugin-typescript": "^1.4.10"
+    "@types/react": "^16.9.2",
+    "@types/react-dom": "^16.9.0",
+    "@types/react-helmet": "^5.0.9",
+    "gatsby": "^2.15.3",
+    "gatsby-link": "^2.2.1",
+    "gatsby-plugin-react-helmet": "^3.1.6",
+    "gatsby-plugin-typescript": "^2.1.6",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-helmet": "^5.2.1",
+    "reactstrap": "^8.0.1",
+    "typescript": "^3.6.2"
   },
   "keywords": [
     "gatsby, typescript"
@@ -28,6 +34,7 @@
   },
   "contributors": [
     "fabien0102 <fabien0102@gmail.com>",
-    "Hays Clark <hays.clark@gmail.com>"
+    "Hays Clark <hays.clark@gmail.com>",
+    "Karel Piwko <karel.piwko@gmail.com>"
   ]
 }
