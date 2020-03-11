@@ -7,7 +7,7 @@
     "@types/node": "^8.0.7",
     "@types/react": "15.0.21",
     "@types/react-dom": "0.14.23",
-    "gatsby": "^1.9.119",
+    "gatsby": "^2.0.84",
     "gatsby-link": "^1.6.28",
     "gatsby-plugin-react-helmet": "^1.0.8",
     "gatsby-plugin-typescript": "^1.4.10"
